@@ -1,6 +1,6 @@
 # Silencing the gamer
 
-## Create by IPewzner
+## Create by IPewzner 
 
 This script is used to remind my brother
 to not raise his voice too loud when he 
